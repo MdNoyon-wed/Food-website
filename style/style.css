@@ -97,7 +97,54 @@ nav li{
   padding-left: 24px;
   
  } 
-   
+ .Sapyla{
+  text-align: center;
+  margin-top: 20px;
+  
+ }
+ .text{
+  padding: 15px 20px;
+  font-size: 20px;
+  
+ }
+ .Inbox{
+  font-weight: bold;
+  font-size: 35px;
+  font-family: "Work Sans", serif;
+  color: #181818;
+  margin-bottom: 40px;
+  text-decoration: underline;
+ }
+ .text1{
+  padding: 15px 20px;
+  border-radius: 15px;
+  font-size: 20px;
+ }
+ .Social{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  
+  
+ }
+ .fd{
+  padding: 20px 25px ;
+   border: 2px dashed salmon; 
+   box-shadow: 10px 10px 30px darkred;
+   border: none;
+   margin: 20px;
+  
+ }
+ .link-fb{
+  font-weight: bold;
+  font-size: 35px;
+  font-family: "Work Sans", serif;
+ 
+  
+ }
+
+
  
  
   
