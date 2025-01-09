@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Work Sans", serif; */
+ *{
+margin: 0px;
+padding: 0px;
+ }
+  
+
+header{
+  background-image: url('../assets/hero-bg.png');
+  background-repeat: no-repeat;
+    
+}
+nav ul{
+  display: flex;
+  margin-left: 1440px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  
+}
+nav li{
+   margin: 25px; 
+}
+.res{
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  margin : 500px;
+  margin-bottom: 100px;
+  color: #fff;
+
+}
+ .foot-sell{
+  text-align: center;
+
+ }
+ .sale{
+  font-weight: bold;
+  font-size: 48px;
+  color: #101010;
+  font-family: "Work Sans", serif;
+  margin-bottom: 48px;
+  
+ }
+ .Brands{
+  font-weight: 400px;
+  font-size: 24px;
+  font-family: "Work Sans", serif;
+  color: #101010;
+  margin-bottom: 16px;
+
+ }
+ .Restaurant-foot{
+  display: flex;
+  margin: 10px 300px;
+  
+ }
+ .but{
+  font-weight: 157px;
+  height: 56px;
+  font-size:20px ;
+  background-color: #52C303;
+  color: #101010;
+  border-radius: 20px;
+  font-weight: bold;
+  border: none;
+  padding: 14px 32px;
+  font-family: "Work Sans", serif;
+  margin-top: 32px;
+   
+
+ }
+ .Restaurant-foot,.but{
+  text-align: center;
+ }
+ .offer{
+  font-weight: 282px;
+  height: 47px;
+  font-family: "Work Sans", serif;
+  font-size: 40px;
+  margin-top: 24px;
+  color: #101010;
+ }
+ .title{
+  font-weight: 424px;
+  height: 56px;
+  font-family: "Work Sans", serif;
+  color:#101010;
+  margin-top: 24px;
+  font-size: 18px;
+ }
+ .img{
+  padding-right: 24px;
+  padding-left: 24px;
+  
+ } 
+   
+ 
+ 
+  
+
+ 
+ 
+  
+ 
+ 
+ 
